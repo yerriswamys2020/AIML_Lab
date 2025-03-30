@@ -9,4 +9,4 @@ The programs are used for teahcing AIML laboratory. The list of experiments are
 6. To check if an instance of 8 puzzle is solvable. Usign theory of inversion 
 7. ID3 Algorithm for classification using zoo.csv dataset
 8. Find-S algorithm for enjoysport.csv dataset
-9. Cnadidate Elimination algorithm for 
+9. Cnadidate Elimination algorithm for enjoysport.csv, economycar.csv,, shapeaccepted.csv, datasets. Results are not correct for economycar.csv 
