@@ -11,4 +11,4 @@ The programs are used for teahcing AIML laboratory. The list of experiments are
 8. Find-S algorithm for enjoysport.csv dataset
 9. Cnadidate Elimination algorithm for enjoysport.csv, economycar.csv,, shapeaccepted.csv, datasets. Results are not correct for economycar.csv 
 10. KNN Classifier for IRIS Dataset
-11. 
+11. LWR Regression using housing dataset
