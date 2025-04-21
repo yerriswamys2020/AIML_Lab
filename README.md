@@ -16,4 +16,4 @@ The programs are used for teahcing AIML laboratory. The list of experiments are
 13. Polynomial Regression
 14. Naive Bayes Classifier from Scratch NB_scratch.ipynb
 15. Naive Bayes Classfier using library
-16.  
+16. RNN Basic example
